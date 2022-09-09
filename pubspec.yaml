@@ -1,6 +1,6 @@
 name: numpad
 description: Numpad for Pincode input on android and ios. Exposes onTap event for the number but 99 for back button. Check example.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/iamevansobeng/numpad
 repository: https://github.com/iamevansobeng/numpad
 
